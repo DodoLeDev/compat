@@ -12,7 +12,7 @@ import androidx.core.view.WindowCompat
 
 class MainActivity : ComponentActivity() {
     private val versions = listOf("", ".pro")
-    private val suffixes = listOf(".debug", ".nightly")
+    private val suffixes = listOf(".debug", ".nightly", ".release_debug")
 
     private val pkg = "fe.linksheet"
 
