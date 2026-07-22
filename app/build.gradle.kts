@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "fe.linksheet.compat"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "fe.linksheet.compat"
